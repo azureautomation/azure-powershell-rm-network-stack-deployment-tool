@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 31395,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-powershell-rm-network-stack-deployment-tool/master/AZRM-VNetDeploy.ps1",
+    "DownloadCount": 922,
+    "Id": "Azure-PowerShell-RM-78ae2d74",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 387,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-10-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script provides functions for creating Azure RM VNET components including:VNET NSG External Load Balancer Internal Load Balancer Site to Site VPN VNET Peering Please like if you find it valuable.\\.AZRM-VnetDeploy.ps1\u00a0-csvimport\u00a0-csvfile\u00a0C:\\temp\\iaasdeployment.csv\\.A",
+    "Title": "Azure PowerShell RM Network Stack Deployment Tool",
+    "UpdatedDate": "2017-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-powershell-rm-network-stack-deployment-tool",
+    "UserTags": "Microsoft Azure, azure vnet, azure vnet gateway"
+}
